@@ -1,0 +1,18 @@
+{
+  "host": "0.0.0.0",
+  "servers": [
+    {
+      "id": "survival-1218",
+      "platform": "java",
+      "version": "1.21.8",
+      "port": 25565,
+      "memory": "2G"
+    }
+  ],
+  "bedrock": {
+    "enabled": false,
+    "port": 19132,
+    "serverDir": "./servers/bedrock",
+    "binary": "./servers/bedrock/bedrock_server"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mc-runtime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js Minecraft Java/Bedrock multi-server runtime",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
